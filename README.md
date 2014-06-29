@@ -1,0 +1,4 @@
+dropfile
+========
+
+angularjs dropfile module
