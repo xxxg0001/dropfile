@@ -1,0 +1,12 @@
+.dropzone {
+ 
+  height: 100px;
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  font-family: Arial;
+}
+.dragover {
+	background-color:rgb(195,195,195)
+}
